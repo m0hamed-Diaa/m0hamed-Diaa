@@ -15,7 +15,7 @@ Thank you for taking the time to learn more about me. I look forward to the oppo
 
 ## 🚀 Skills
 
-<p items='center'>
+<p align='center'>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="80" height="80" />
   <img src="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" width="80" height="80"/> <!-- typescript -->
   <img src="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" width="80" height="80"/> <!-- React -->
