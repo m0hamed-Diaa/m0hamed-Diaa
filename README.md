@@ -18,8 +18,9 @@ Always open for opportunities to grow and collaborate!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="50" height="50"/>
 
   <!-- Styling -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
      alt="TailwindCSS" width="50" height="50"/>
+
 
 
   <!-- Tools -->
