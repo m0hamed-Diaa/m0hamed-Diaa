@@ -9,26 +9,11 @@ Always open for opportunities to grow and collaborate!
 ## 🚀 Skills
 
 <p align="center">
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-       width="60" height="60" style="animation:spin 6s linear infinite;">
-
-  <!-- Tailwind -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
-       width="60" height="60" style="animation:bounce 2s infinite;">
-  
-  <!-- TypeScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
-       width="60" height="60" style="animation:shake 1.5s infinite;">
-  
-  <!-- Vite -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" 
-       width="60" height="60" style="animation:spin 8s linear infinite;">
-  
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-       width="60" height="60" style="animation:shake 2s infinite;">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="60" height="60"/> <!-- React -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60" height="60"/> <!-- Code -->
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" height="60"/> <!-- JavaScript -->
 </p>
+
 
 ---
 
