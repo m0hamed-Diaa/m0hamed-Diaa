@@ -8,19 +8,18 @@ Always open for opportunities to grow and collaborate!
 
 ## 🚀 Skills
 
-<p align="center">
+<p>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="80" height="80"/> <!-- HTML -->
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80" height="80"/> <!-- CSS -->
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" height="80"/> <!-- Bootstrap -->
+  <img src="https://media.giphy.com/media/XLK6M5BXrx5Qy/giphy.gif" width="80" height="80"/> <!-- Tailwind -->
   <img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" width="80" height="80"> <!-- JavaScript -->
   <img src="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" width="80" height="80"/> <!-- typescript -->
   <img src="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" width="80" height="80"/> <!-- React -->
   <img src="https://camo.githubusercontent.com/6d97626a83a6b403636542a254cf6bfc0fe03af0e7780d2144c8bf2d5f9cdfcf/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f736173732d69636f6e2e737667" width="80" height="80"/> <!-- Sass -->
-  
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="80" height="80" /> <!-- Python -->
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80" /> <!-- github -->
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80" color='white' /> <!-- github -->
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" height="80"/> <!-- Git -->
 </p>
 
 ---
