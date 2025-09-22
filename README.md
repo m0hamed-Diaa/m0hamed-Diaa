@@ -9,10 +9,11 @@ Always open for opportunities to grow and collaborate!
 ## 🚀 Skills
 
 <p>
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/path/html.gif" width="80" height="80"/> <!-- HTML -->
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80" height="80"/> <!-- CSS -->
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" height="80"/> <!-- Bootstrap -->
-  <img src="https://media.giphy.com/media/XLK6M5BXrx5Qy/giphy.gif" width="80" height="80"/> <!-- Tailwind -->
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.gif" width="80" height="80" alt="HTML"/> <!-- HTML -->
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.gif" width="80" height="80" alt="CSS"/> <!-- CSS -->
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.gif" width="80" height="80" alt="Bootstrap"/> <!-- BootStarp -->
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.gif" width="80" height="80" alt="Tailwind"/> 
+  <!-- Tailwind -->
   <img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" width="80" height="80"> <!-- JavaScript -->
   <img src="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" width="80" height="80"/> <!-- typescript -->
   <img src="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" width="80" height="80"/> <!-- React -->
