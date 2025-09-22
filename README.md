@@ -1,7 +1,7 @@
 # 👨‍💻 Mohamed Diaa
 
 As a software engineer, I am passionate about learning, building, and sharing knowledge.  
-I enjoy working with modern web technologies, focusing on **Front-End Development** and **Cybersecurity**.  
+I enjoy working with modern web technologies, focusing on **Front-End Development**
 Always open for opportunities to grow and collaborate!
 
 ---
@@ -18,12 +18,10 @@ Always open for opportunities to grow and collaborate!
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80" /> <!-- github -->
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-
-
-
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
 
 ---
 
