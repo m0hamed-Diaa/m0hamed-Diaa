@@ -9,7 +9,7 @@ Always open for opportunities to grow and collaborate!
 ## 🚀 Skills
 
 <p>
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="80" height="80"/> <!-- HTML -->
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/path/html.gif" width="80" height="80"/> <!-- HTML -->
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80" height="80"/> <!-- CSS -->
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" height="80"/> <!-- Bootstrap -->
   <img src="https://media.giphy.com/media/XLK6M5BXrx5Qy/giphy.gif" width="80" height="80"/> <!-- Tailwind -->
