@@ -23,6 +23,7 @@ Thank you for taking the time to learn more about me. I look forward to the oppo
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="80" height="80" /> <!-- Python -->
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80" color='white' /> <!-- github -->
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" height="80"/> <!-- Git -->
+  <img src="https://camo.githubusercontent.com/7575696d9955b68522293ed8409d041e78dc26dd51add99b5a5d9aad0747e11e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667" width="80" height="80"> <!-- aws -->
 </p>
 
 ---
