@@ -16,10 +16,10 @@ Thank you for taking the time to learn more about me. I look forward to the oppo
 ## 🚀 Skills
 
 <p align='center'>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" />
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="80" height="80" /> <!-- Javascript -->
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="80" height="80px" />  <!-- Typescript -->
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="80px" /> <!-- React -->
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="80" height="80px" />  <!-- Sass -->
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="80" height="80" /> <!-- Python -->
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80" color='white' /> <!-- github -->
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" height="80"/> <!-- Git -->
@@ -32,8 +32,6 @@ Thank you for taking the time to learn more about me. I look forward to the oppo
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=38B2AC&center=true&vCenter=true&width=500&lines=React+Developer;Front-End+Developer;TypeScript+%26+Tailwind+CSS" alt="Typing SVG" />
 </p>
-
----
 
 ---
 
