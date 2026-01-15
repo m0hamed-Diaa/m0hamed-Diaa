@@ -35,13 +35,6 @@ Thank you for taking the time to learn more about me. I look forward to the oppo
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m0hamed-Diaa&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0hamed-Diaa&theme=tokyonight" alt="streak" height="160"/>
-</p>
-
 ---
 
 ⭐️ From [Mohamed Diaa](https://github.com/m0hamed-Diaa)
