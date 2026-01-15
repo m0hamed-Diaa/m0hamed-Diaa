@@ -17,9 +17,9 @@ Thank you for taking the time to learn more about me. I look forward to the oppo
 
 <p align='center'>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="80" height="80" />
-  <img src="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" width="80" height="80"/> <!-- typescript -->
-  <img src="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" width="80" height="80"/> <!-- React -->
-  <img src="https://camo.githubusercontent.com/6d97626a83a6b403636542a254cf6bfc0fe03af0e7780d2144c8bf2d5f9cdfcf/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f736173732d69636f6e2e737667" width="80" height="80"/> <!-- Sass -->
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" />
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="80" height="80" /> <!-- Python -->
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80" color='white' /> <!-- github -->
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" height="80"/> <!-- Git -->
