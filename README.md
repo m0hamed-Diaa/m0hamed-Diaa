@@ -5,7 +5,7 @@ As a software engineer, I am passionate about learning, building, and sharing kn
 I enjoy working with modern web technologies, focusing on **Front-End Development**
 Always open for opportunities to grow and collaborate!
 
-My solid foundation in object-oriented programming, and design patterns has allowed me to develop efficient, maintainable, and scalable code. I am proficient in JavaScript and TypeScript and have extensive experience working with React and Redux. I have also worked with Sass, Tailwind CSS, and other front-end technologies.
+My solid foundation in object-oriented programming, and design patterns has allowed me to develop efficient, maintainable, and scalable code. I am proficient in JavaScript and TypeScript and have extensive experience working with React and Next.js. I have also worked with Sass, Tailwind CSS, and other front-end technologies.
 
 Outside of work, I enjoy contributing to open-source projects and participating in coding communities. I believe in the importance of giving back to the tech community and helping others learn and grow.
 
