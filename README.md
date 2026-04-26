@@ -16,14 +16,16 @@ Thank you for taking the time to learn more about me. I look forward to the oppo
 ## 🚀 Skills
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+  <table><tr>
+    <td><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/sass-icon.svg" width="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" /></td>
+    <td><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" /></td>
+  </tr></table>
 </p>
 
 ---
